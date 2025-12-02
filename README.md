@@ -68,4 +68,8 @@ This analysis answers key questions:
 ---
 
 ## 🗂️ Repository Structure
-
+- **README.md:** Explains the project’s objective, methods, and insights.  
+- **Dashboard/** – contains your Power BI files and screenshots.  
+- **Report/** – holds the detailed written project report.  
+- **SQL/** – includes SQL scripts for data cleaning and exploration.  
+- **Data/** – stores the input dataset used for the analysis.  
