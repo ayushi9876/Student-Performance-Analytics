@@ -44,7 +44,7 @@ This analysis answers key questions:
 
 ## 📊 Dashboard Preview
 
-*(Insert your dashboard image here)*  
+*Dashboard/Dashboard_Screenshot.png*  
 
 ![Student Performance Dashboard](Dashboard/Dashboard_Screenshot.png)
 
