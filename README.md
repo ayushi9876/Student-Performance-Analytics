@@ -1,7 +1,7 @@
 # 🎓 Student Performance Analytics Dashboard
 
 **Author:** Ayushi Singh  
-**Tools Used:** SQL | Power BI | Power Query | Excel  
+**Tools Used:** SQL | Power BI | Power Query | Excel
 
 ---
 
